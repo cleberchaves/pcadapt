@@ -3,7 +3,7 @@ Type: Package
 Title: Fast Principal Component Analysis for Outlier Detection
 Version: 4.0.2
 Date: 2018-06-12
-Authors@R: c(person("Keurcien", "Luu", role = c("aut"), email = "keurcien.luu@univ-grenoble-alpes.fr"), 
+Authors: c(person("Keurcien", "Luu", role = c("aut"), email = "keurcien.luu@univ-grenoble-alpes.fr"), 
           person("Michael", "Blum", role = c("aut", "cre"), email = "michael.blum@univ-grenoble-alpes.fr"),
           person("Florian", "Prive", role = c("aut"), email = "florian.prive.21@gmail.com"),
           person("Eric", "Bazin", role = c("ctb"), email = "eric.bazin@univ-grenoble-alpes.fr"),
